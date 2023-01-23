@@ -27,7 +27,7 @@
 > This project provides the UI that displays random greeting messages using the rails api endpoint
 
 ## BackEnd  <a name="backend"></a>
- - [Hello World Frontend Link](https://github.com/RiyaBulia12/Hello-World-Backend)
+ - [Hello World Backend Link](https://github.com/RiyaBulia12/Hello-World-Backend)
 
 ## 🛠 Built With <a name="built-with"></a>
 
